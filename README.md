@@ -1,5 +1,5 @@
 # PackUTF8
-Pack UTF8 to datastore, simple module.
+Pack UTF8 to datastore.
 
 ## Example for usage
 
@@ -10,3 +10,4 @@ local Packed = UTF_8_Module:Pack("ABC") -- Returns: #65##66##67#
 local Depacked = UTF_8_Module:Unpack(Packed) -- Returns: ABC
 
 ```
+**Disclaimer: work only with Luau in roblox**
