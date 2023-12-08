@@ -1,5 +1,6 @@
-# PackUTF8
-Pack UTF8 to datastore.
+# PackUTF8 module
+
+Maked for packing string to datastore
 
 ## Example for usage
 
